@@ -1,1 +1,35 @@
+.blob {
+    background-color: rgb(189, 8, 28);
+    width: 300px;
+    height: 300px;
+    border-top-left-radius: 100%;
+    border-top-right-radius: 100%;
+    border-bottom-right-radius: 100%;
+    border-bottom-left-radius: 20%;
+}
+
+.ff {
+    font-family:  -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto Oxygen-Sans", Ubuntu, Cantarell, "“Fira Sans”", "“Droid Sans”", "Helvetica Neue", Helvetica, "\\30D2ラギノ角ゴPro W3", "Hiragino Kaku Gothic Pro", "\\30E1イリオ", Meiryo, "ＭＳ Ｐゴシック", Arial, sans-serif;
+}
+
+.call-to-action {
+    color: white;
+    position: relative;
+    top:50%;
+    left: 10%;
+}
+
+.btn {
+    border: 1px solid white;
+    color: white;
+    background-color: rgb(189, 8, 28);
+    border-radius: 5px;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    position: relative;
+    top:50%;
+    left: 10%;
+    display: block;
 }
