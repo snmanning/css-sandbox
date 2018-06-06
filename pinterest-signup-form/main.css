@@ -17,7 +17,7 @@ html {
 
 .logo {
     margin: 50px 20px 10px 190px;
-    padding-top: 50px;
+
 }
 
 .form-head {
@@ -34,7 +34,7 @@ html {
 
 .form {
     position: relative;
-    margin: 5px 95px 165px 87px;
+    margin: 5px 95px 105px 87px;
 }
 
 .info {
@@ -67,3 +67,23 @@ input[type=text]: focus {
     border-radius: 4px;
 
 }
+
+.legal {
+    color: rgb(204, 204, 204);
+    font-size: x-small;
+    text-align: center;
+}
+
+.terms {
+    text-decoration: none;
+    font-weight: bold;
+    color: rgb(175, 185, 195);
+}
+
+.business {
+    text-decoration: none;
+    color: darkslategrey);
+    font-weight: bold;
+    text-align: center;
+    margin: 35px 5px 30px;
+}   
