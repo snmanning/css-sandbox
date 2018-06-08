@@ -1,0 +1,35 @@
+.bg-img {
+    background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),url(https://s.pinimg.com/webapp/style/images/bg_multi_case_grid_no_text_white_55_percent-2000ab22.jpg);
+}
+
+.fc {
+    display: flex;
+    justify-content: center;
+}
+
+.nav-footer {
+    bottom: 10px;
+    position: fixed;
+    width: 100%;
+}
+
+a {
+    color: rgb(255, 255, 255);
+    font-size: 11px;
+    font-weight: normal;
+    cursor: pointer;
+    text-decoration: none;
+    word-spacing: 10px;
+    padding: 1em;
+}
+
+a.link:visited {
+    text-decoration: none;
+    color: rgb(255, 255, 255);
+}
+
+a.link:hover {
+    text-decoration: none;
+    color: rgb(255, 255, 255);
+}
+
