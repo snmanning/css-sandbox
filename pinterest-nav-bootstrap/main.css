@@ -1,0 +1,31 @@
+body {
+    background:url(https://s.pinimg.com/webapp/style/images/bg_multi_case_grid_no_text_white_55_percent-2000ab22.jpg);
+}
+
+.overlay {
+    width: 100vw;
+    height: 100vh;
+    background-color: rgba(0, 0, 0, 0.5);
+    margin: 0;
+}
+
+.nav-link {
+    font-size: 11px;
+}
+
+.nav-collapse, .collapse {
+    display: flex !important;
+}
+
+@media(min-width: 325px){
+    .overlay {
+        background-color: rgba(0, 255, 0, 0.5);
+    }
+}
+
+@media(min-width: 694px){
+    .overlay {
+        background-color: rgba(255, 0, 0, 0.5);
+    }
+}
+
